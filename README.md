@@ -1,6 +1,7 @@
-# JavaSwing
-simple Desktop swing application
+# School managment system
+A  Desktop swing application
+## Setup
 You need JDK 8 or latter
 netbeans
-it is a desktop swing application with user authentication forms
-data mining form
+clone and extract to your local machine
+it is a desktop application for managing students record, Staff information to image recognition
